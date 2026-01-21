@@ -44,6 +44,7 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 - Simulação de cenários reais de negócio  
 
 📊 Exemplos de Visualizações
+
 ![Visão do Cliente](Imagens/Cliente.png)
 ![Visão do Comportamento](Imagens/Comportamento.png)
 ![Visão da Campanha](Imagens/Campanha.png)
@@ -53,3 +54,4 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 1. Baixe o arquivo `.pbix` disponível neste repositório  
 2. Abra no **Power BI Desktop** para explorar os relatórios  
 3. Utilize os filtros e interações para navegar pelas diferentes visões
+
