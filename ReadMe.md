@@ -94,10 +94,10 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 
 
 📊 Exemplos de Visualizações
-![Visão do Cliente](imagens/Cliente.png)
-![Visão do Comportamento](imagens/Comportamento.png)
-![Visão da Campanha](imagens/Campanha.png)
-![Visão do Ponto de Venda](imagens/Ponto%20de%20Venda.png)
+![Visão do Cliente](Imagens/Cliente.png)
+![Visão do Comportamento](Imagens/Comportamento.png)
+![Visão da Campanha](Imagens/Campanha.png)
+![Visão do Ponto de Venda](Imagens/Ponto%20de%20Venda.png)
 
 📌 Como visualizar
 1. Baixe o arquivo `.pbix` disponível neste repositório  
@@ -110,6 +110,7 @@ Cada visão busca compreender variáveis relevantes, criar gráficos e medidas, 
 1. Baixe o arquivo `.pbix` disponível neste repositório  
 2. Abra no **Power BI Desktop** para explorar os relatórios  
 3. Utilize os filtros e interações para navegar pelas diferentes visões
+
 
 
 
